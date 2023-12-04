@@ -1,3 +1,5 @@
-# Laporan Final Project 4 Kelompok 8
+# Final Project 4 Kelompok 8
 
-[Link Google Drive Laporan](https://drive.google.com/file/d/1DUydnxxsHb2CydqrgRppknBe1h5Z-4eM/view?usp=sharing)
+1. Zidhan Arrasyid
+2. Arya Bhima Andika
+3. Muhammad Farhan
