@@ -17,7 +17,7 @@ const App = () => {
 
   return (
     <div className="app_container">
-      <Header title="MovieFinder" logo={logo} />
+      <Header title="Movie8" logo={logo} />
       <Search setMovies={setMovies} setLoading={setLoading} />
       <Movie movies={movies} loading={loading} />
       <hr />
